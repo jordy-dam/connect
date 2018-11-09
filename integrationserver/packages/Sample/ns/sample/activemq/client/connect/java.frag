@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">connect</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">ICAgIGZpbmFsIEFjdGl2ZU1RQ29ubmVjdGlvbkZhY3RvcnkgY29ubmVjdGlvbkZhY3RvcnkgPSBj
+cmVhdGVBY3RpdmVNUUNvbm5lY3Rpb25GYWN0b3J5KCk7CiAgICBmaW5hbCBQb29sZWRDb25uZWN0
+aW9uRmFjdG9yeSBwb29sZWRDb25uZWN0aW9uRmFjdG9yeSA9IGNyZWF0ZVBvb2xlZENvbm5lY3Rp
+b25GYWN0b3J5KGNvbm5lY3Rpb25GYWN0b3J5KTsKCiAgICBJRGF0YU1hcCBtYXAgPSBuZXcgSURh
+dGFNYXAocGlwZWxpbmUpOwogICAgCiAgICB0cnkgewoJCW1hcC5wdXQoInByb2R1Y2VyIiwgc2Vu
+ZE1lc3NhZ2UocG9vbGVkQ29ubmVjdGlvbkZhY3RvcnkpKTsKCQkvL21hcC5wdXQoInN1YnNjcmli
+ZXIiLCByZWNlaXZlTWVzc2FnZShjb25uZWN0aW9uRmFjdG9yeSkpOwoJCQoJfSBjYXRjaCAoSk1T
+RXhjZXB0aW9uIGUpIHsKCQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIGNhdGNoIGJsb2NrCgkJdGhy
+b3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oZS50b1N0cmluZygpKTsKCX0KCiAgICBwb29sZWRDb25u
+ZWN0aW9uRmFjdG9yeS5zdG9wKCk7</value>
+</Values>
